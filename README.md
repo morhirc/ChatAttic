@@ -139,4 +139,4 @@ ChatGPTおよびOpenAIの名称は、それぞれの権利者に帰属します�
 
 ---
 
-**ChatAttic v1.0 — 一般公開版**
+**ChatAttic v1.0 — 初回公開版**
