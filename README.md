@@ -1,10 +1,10 @@
 # ChatAttic
 
-**ChatGPTの会話を、保存して、探して、あとから読む。**
+**ChatGPT / Geminiの会話を、保存して、探して、あとから読む。**
 
-ChatAtticは、ChatGPTの会話を保存・検索・閲覧するために作った、Chrome向けの非公式ツールです。
+ChatAtticは、ChatGPT / Geminiの会話を保存・検索・閲覧するために作った、Chrome向けの非公式・個人制作ツールです。
 
-OpenAIからエクスポートした **ZIP / JSON / HTML** も、PC上で読み込んで閲覧できます。
+OpenAIからエクスポートした ZIP / JSON / HTML も、PC上で読み込んで閲覧できます。
 
 ## スクリーンショット
 
